@@ -1,1 +1,2 @@
-This is a readme text
+This project is to test my knowledge on the introduction to github and text editors like vi. 
+Also getting comfortable with git commands such as git checkout , git commit, git add, git push etc
